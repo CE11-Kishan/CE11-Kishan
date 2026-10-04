@@ -23,7 +23,7 @@
 | <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Robot/3D/robot_3d.png" width="36" /> | **AI Engineering:** agentic workflows, RAG and LLM-powered products |
 | <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" width="36" /> | **Full-Stack Development:** from UI to APIs to data |
 | <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Cloud/3D/cloud_3d.png" width="36" /> | **Cloud & DevOps:** serverless, CI/CD and release automation |
-| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Seedling/3D/seedling_3d.png" width="36" /> | **Open Source:** contributor to [Onyx](https://github.com/onyx-dot-app/onyx) |
+| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Seedling/3D/seedling_3d.png" width="36" /> | **Open Source:** contributor to [Onyx](https://docs.onyx.app/changelog#:~:text=%40CE11%2DKishan%20made%20SharePoint%20indexing%20retry%20transient%20Graph%20API%20responses%20instead%20of%20aborting%20the%20attempt.) |
 
 ### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/3D/hammer_and_wrench_3d.png" width="28" /> Tech Stack
 
